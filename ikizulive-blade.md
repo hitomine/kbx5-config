@@ -17,4 +17,4 @@
 
 ## KBX5 用 QR コード
 
-[QR コード](ikizulive-blade.png)
+![QR コード](ikizulive-blade.png)
